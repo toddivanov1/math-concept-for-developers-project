@@ -1,7 +1,18 @@
 # math-concept-for-developers-project
-This is my project for the SoftUni Math Concepts for Developers course.
+# Birthday Paradox: A Learning Diary in Math Concepts for Developers
 
-The purpose for the completion of this project is to learn. Any other purposes to this project 
-can be deemed secondary. I am mainly interested in grasping the concepts of the math, its visualizations 
-and how I can "play" with the data. I want to observe and record the changes in the data in order to extrapolate 
-a pattern or the lack of one and reach appropriate conclusions.
+This project takes one simple curiosity, the birthday paradox, and uses it as a
+starting point for learning math by asking one follow-up question at a time.
+Each question brings in a new concept: combinatorics for the exact probability,
+simulation and statistics to check it, calculus to see where adding more people
+stops making a difference, and real birth data to test whether all days of the
+year are equally likely.
+
+The central question: How many people are needed before a shared birthday becomes likely?
+Follow-up questions: 
+How does the answer change when we use real data?
+What changes if the year is added as a parameter?
+What happens when we require three or more people to match?
+
+Where it applies: at the end of each section I note where the same idea shows
+up in practice.
